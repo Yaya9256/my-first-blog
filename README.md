@@ -6,8 +6,11 @@ The simple blog created with Django frame-work. Post list is displayed on the ma
 Prerequisites
 
   Django~=2.2.4
+  
   Python 3.7.3 
+  
   Sqlite3
+  
   Pythonanawhere.com account for deploy
   
 
