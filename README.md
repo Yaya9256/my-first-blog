@@ -7,7 +7,7 @@ Prerequisites
 
   Django~=2.2.4
   Python 3.7.3 
-  MongoDB
-  Pythonanawhere.com account for deploying
+  Sqlite3
+  Pythonanawhere.com account for deploy
   
 
