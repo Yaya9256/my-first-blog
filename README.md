@@ -11,6 +11,6 @@ Prerequisites
   
   Sqlite3
   
-  Pythonanawhere.com account for deploy
+  Pythonanywhere.com account for deploy
   
 
